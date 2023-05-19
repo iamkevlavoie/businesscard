@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
+    background: white;
     color: #2b2839;
     border-bottom: 6px solid #d8cefe;
 }
